@@ -52,6 +52,23 @@ Contributions, questions, and ideas are welcome — open an issue, start a discu
 
 ---
 
+## Contributing
+
+TechForge is an open project and contributions are welcome.
+
+Whether you want to improve an existing implementation, add an alternative approach using a different technology, fix a bug, or simply correct a typo — all contributions are valuable.
+
+To get started:
+
+1. Browse the repositories and find one that interests you
+2. Open an issue to discuss your idea before starting
+3. Fork the repository, make your changes, and open a pull request
+4. Document what you did and why — the learning log matters as much as the code
+
+If you have an idea for a new GitHub feature to rebuild, open a discussion in the organization and we can figure out the best way to tackle it together.
+
+---
+
 ## Author
 
 Built and documented by [Emmanuel Demey](https://github.com/emmanueldemey) — freelance consultant based in Edinburgh, specialising in Elasticsearch, web accessibility, and Green IT.
